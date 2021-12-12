@@ -72,9 +72,9 @@
     Более подробно возможные настройки OPNsense мы рассмотрим в других уроках или вы можете найти всю информацию. в интернет, воспользовавшись приведенными ниже источниками.    
 
 **Используемые источники:**    
-Установка OPNsense - Шаг за шагом    
-Первичная настройка в консоли pfsense/opnsense    
-Пробрасываем порт на OPNSense    
-Network Address Translation - OPNsense's documentation! (официальный сайт)    
-Как установить и настроить базовый брандмауэр OpnSense    
+<a href="https://www.google.com/url?q=https://techexpert.tips/ru/opnsense-ru/%25D1%2583%25D1%2581%25D1%2582%25D0%25B0%25D0%25BD%25D0%25BE%25D0%25B2%25D0%25BA%25D0%25B0-opnsense-%25D1%2588%25D0%25B0%25D0%25B3-%25D0%25B7%25D0%25B0-%25D1%2588%25D0%25B0%25D0%25B3%25D0%25BE%25D0%25BC/&sa=D&source=editors&ust=1639337909577000&usg=AOvVaw29XSyDXWUf3sek3TdgdkFC">Установка OPNsense - Шаг за шагом</a>    
+<a href="https://www.google.com/url?q=https://itarticle.ru/console-setup-pfsense-opnsense/&sa=D&source=editors&ust=1639337909578000&usg=AOvVaw1FdTqgrV76aBBp3Of4am7X">Первичная настройка в консоли pfsense/opnsense</a>    
+<a href="https://www.google.com/url?q=https://osbsd.com/forwarding-the-port-to-opnsense.html&sa=D&source=editors&ust=1639337909578000&usg=AOvVaw2ZRCacs4_JBdmmdWBq3pWW">Пробрасываем порт на OPNSense</a>    
+<a href="https://www.google.com/url?q=https://docs.opnsense.org/manual/nat.html&sa=D&source=editors&ust=1639337909578000&usg=AOvVaw0wJ8TujMmXj0Xvfh8Cd49c">Network Address Translation - OPNsense's documentation! (официальный сайт)</a>    
+<a href="https://www.google.com/url?q=https://cgartworld.com/ru/texts/9549-how-to-install-and-configure-basic-opnsense-firewall&sa=D&source=editors&ust=1639337909579000&usg=AOvVaw0acJhm_-bASk1HGwSqG0rO">Как установить и настроить базовый брандмауэр OpnSense</a>    
 
